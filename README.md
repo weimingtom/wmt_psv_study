@@ -4,6 +4,7 @@ My PSVita study
 ## vitasdk
 * https://vitasdk.org   
 https://docs.vitasdk.org  
+https://github.com/weimingtom/wmt_psv_study/blob/master/vitasdk_001.txt  
 https://github.com/vitasdk/autobuilds/releases/download/master-linux-v2.534/vitasdk-x86_64-linux-gnu-2025-06-10_18-45-54.tar.bz2  
 https://github.com/vitasdk/autobuilds/releases/download/master-linux-v1109/vitasdk-x86_64-linux-gnu-2020-06-06_16-44-59.tar.bz2  
 ```
